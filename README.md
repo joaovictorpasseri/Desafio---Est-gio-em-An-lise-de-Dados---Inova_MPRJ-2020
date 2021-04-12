@@ -50,7 +50,7 @@ Nesta planilha podemos analisar um recorte dos fornecedores com maior participa�
 
 Percebe-se que muitos fornecedores tiveram todas as suas participações em obras com atraso, portando um dos indicadores é **FORNECEDOR**.
 
-Para analisar os outros possíveis indicadores de atraso, foi construído um método que por encadeamento de decisões tenta ponderam o quão importante é uma variável na decisão se uma obra irá atrasar ou não.
+Para analisar os outros possíveis indicadores de atraso, foi construído um método que por encadeamento de decisões tenta ponderar o quão importante é uma variável na decisão se uma obra irá atrasar ou não.
 
 Neste gráfico podemos analisar o grau de importância, para melhorar o entendimento das variáveis consultor planilha *dicionario de variaveis*.
 
